@@ -6,4 +6,4 @@ My name is Alexander Workman. I'm a 26-year-old aspiring web developer from a sm
 
 I do web development mainly as a hobby and don't know if I will ever try to turn it into a career. I have ideas for several projects that have the potential to be lucrative but for right now I'm just enjoying the learning process and not focused on turning this into a job.
 
-I code on a 2-in-1 Samsung laptop/tablet running Linux Ubuntu 22.04. My text editors of choice are Sublime Text or VS Code, and I use Chrome and Firefox.
+I code on a 2-in-1 Samsung laptop/tablet running Linux Ubuntu 22.04 or on a Gateway gaming PC running Windows 11 with an Ubuntu subsystem. My text editors of choice are Sublime Text or VS Code, and I use Brave web browser exclusively.
